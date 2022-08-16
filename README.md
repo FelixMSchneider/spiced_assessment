@@ -2,6 +2,7 @@
 In the assessment you will implement a linear model for a set of 20 x/y data points.
 
 We assume that the data can be described by a straight line with the slope a through the origin and an intercept b.
+
 y = a * x + b
 
 ## Task 1
